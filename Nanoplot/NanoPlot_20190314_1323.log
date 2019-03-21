@@ -1,0 +1,16 @@
+2019-03-14 13:23:53,618 NanoPlot 1.21.0 started with arguments Namespace(N50=True, alength=False, bam=None, barcoded=False, color='#4CB391', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['GROUP10.fastq'], fastq_minimal=None, fastq_rich=None, font_scale=1, format='png', listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, outdir='.', percentqual=False, pickle=None, plots=['hex', 'dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=2, title='MysteryData', verbose=False)
+2019-03-14 13:23:53,618 Python version is: 3.6.1 |Continuum Analytics, Inc.| (default, May 11 2017, 13:09:58)  [GCC 4.4.7 20120313 (Red Hat 4.4.7-1)]
+2019-03-14 13:23:53,675 Nanoplotter: valid output format png
+2019-03-14 13:23:53,787 Nanoget: Starting to collect statistics from plain fastq file.
+2019-03-14 13:23:54,640 Reduced DataFrame memory usage from 0.02288818359375Mb to 0.0133514404296875Mb
+2019-03-14 13:23:54,662 Nanoget: Gathered all metrics of 1000 reads
+2019-03-14 13:23:54,690 Calculated statistics
+2019-03-14 13:23:54,692 Using sequenced read lengths for plotting.
+2019-03-14 13:23:54,698 Nanoplotter: Valid color #4CB391.
+2019-03-14 13:23:54,700 Nanoplotter: Creating length plots for Read length.
+2019-03-14 13:23:54,700 Nanoplotter: Using 1000 reads with read length N50 of 6785bp and maximum of 18403bp.
+2019-03-14 13:23:56,522 Created length plots
+2019-03-14 13:23:56,524 Nanoplotter: Creating Read lengths vs Average read quality plots using statistics from 1000 reads.
+2019-03-14 13:23:58,359 Created LengthvsQual plot
+2019-03-14 13:23:58,359 Writing html report.
+2019-03-14 13:24:01,532 Finished!
