@@ -10,3 +10,5 @@ Using Nanoplot - https://github.com/wdecoster/NanoPlot
 
 Amazing visualition tool for Nanopore reads. Gives summary statistics and average read quality vs read length plots.
 
+![](https://github.com/sidwekhande/nanopore-analysis/blob/master/Nanoplot/LengthvsQualityScatterPlot_hex.png)
+
