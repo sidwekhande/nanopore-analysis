@@ -4,7 +4,7 @@ Data exploration and analysis of a set of Oxford Nanopore reads.
 The task given was the identification of a species given this mystery set of reads.
 Data given: GROUP10.fasta / GROUP10.fastq
 
-##Data Quality Analysis:
+## Data Quality Analysis:
 
 Using Nanoplot - https://github.com/wdecoster/NanoPlot
 
@@ -16,7 +16,7 @@ Above hexplot shows average Nanopore read quality ~10 and the longest read ~17,0
 
 `NanoPlot -t 2 --fastq ../GROUP10.fastq --plots hex --title "Mystery Data" --no-N50`
 
-##Species Identification
+## Species Identification
 
 Using the GROUP10.fasta file, I first filtered out the 25 longest reads (25LR.fasta).
 
